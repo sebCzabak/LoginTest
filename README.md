@@ -12,22 +12,7 @@ Ten projekt zawiera automatyczne testy logowania dla demonstracyjnej aplikacji b
 * **Zarządzanie Zależnościami:** Maven
 * **Zarządzanie Sterownikami Przeglądarek:** WebDriverManager
 
-## Struktura Projektu
-internet-banking-tests/
-├── src/
-│   ├── main/
-│   │   └── java/
-│   └── test/
-│       ├── java/
-│       │   ├── runner/
-│       │   │   └── TestRunner.java
-│       │   └── steps/
-│       │       └── LoginStepDefinitions.java
-│       └── resources/
-│           └── features/
-│               └── login.feature
-├── pom.xml
-└── README.md
+
 * `src/test/resources/features/login.feature`: Zawiera scenariusze testowe logowania opisane w języku Gherkin.
 * `src/test/java/steps/LoginStepDefinitions.java`: Zawiera implementację kroków testowych w języku Java z wykorzystaniem Selenium WebDriver.
 * `src/test/java/runner/TestRunner.java`: Konfiguruje Cucumbera i TestNG do uruchamiania testów.
