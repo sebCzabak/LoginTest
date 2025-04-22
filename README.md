@@ -51,7 +51,7 @@ Projekt zawiera następujące scenariusze testowe:
 
 ## Dodatkowe Informacje
 
-* Dane do logowania użyte w testach (User ID: `mngr34926`, Password: `amUpenu`) są danymi demonstracyjnymi dostarczonymi przez serwis i mogą ulec zmianie. W razie potrzeby należy skorzystać z opcji "Generate Access" na stronie głównej aplikacji, aby uzyskać aktualne dane.
+* Dane do logowania użyte w testach (User ID: `mngr620372`, Password: `venegyg`) są danymi demonstracyjnymi dostarczonymi przez serwis i mogą ulec zmianie. W razie potrzeby należy skorzystać z opcji "Generate Access" na stronie głównej aplikacji, aby uzyskać aktualne dane.
 * Kod został napisany z dbałością o czytelność i zawiera komentarze wyjaśniające każdy krok implementacji.
 
 ## Autor
