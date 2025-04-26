@@ -36,8 +36,8 @@ Projekt zawiera następujące scenariusze testowe:
 
 2.  **Klonowanie Repozytorium:**
     ```bash
-    git clone [adres_twojego_repozytorium]
-    cd internet-banking-tests
+    git clone (https://github.com/sebCzabak/LoginTest)
+    cd LoginTest
     ```
 
 3.  **Uruchomienie Testów:**
