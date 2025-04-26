@@ -36,7 +36,7 @@ Projekt zawiera następujące scenariusze testowe:
 
 2.  **Klonowanie Repozytorium:**
     ```bash
-    git clone (https://github.com/sebCzabak/LoginTest)
+    git clone [https://github.com/sebCzabak/LoginTest]
     cd LoginTest
     ```
 
